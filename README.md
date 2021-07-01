@@ -19,4 +19,4 @@ DoorLockSystem
 ![슬라이드17](https://user-images.githubusercontent.com/83354402/124047814-e853a700-da4f-11eb-9c82-6f026543df36.JPG)
 ![슬라이드18](https://user-images.githubusercontent.com/83354402/124047816-e8ec3d80-da4f-11eb-88ac-810889d92088.JPG)
 
-[라즈베리파이를 이용한 도어락](http://img.youtube.com/vi/nOMrS6gsISs/0.jpg)](https://youtu.be/nOMrS6gsISs) 
+[라즈베리파이를 이용한 도어락](http://img.youtube.com/vi/nOMrS6gsISs/0.jpg)](https://youtu.be/nOMrS6gsISs?t=0s) 
