@@ -18,4 +18,4 @@ DoorLockSystem
 ![슬라이드16](https://user-images.githubusercontent.com/83354402/124047812-e853a700-da4f-11eb-9ffe-43385c78be3b.JPG)
 ![슬라이드17](https://user-images.githubusercontent.com/83354402/124047814-e853a700-da4f-11eb-9c82-6f026543df36.JPG)
 ![슬라이드18](https://user-images.githubusercontent.com/83354402/124047816-e8ec3d80-da4f-11eb-88ac-810889d92088.JPG)
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nOMrS6gsISs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{% include video id="nOMrS6gsISs" provider="youtube" %}
